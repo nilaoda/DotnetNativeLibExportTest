@@ -1,0 +1,6 @@
+CoCreateInstance
+FileSaveDialog
+IFileSaveDialog
+SHCreateItemFromParsingName
+SetProcessDPIAware
+CoInitialize
